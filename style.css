@@ -1,0 +1,20 @@
+body {
+  background-color: #fafafa;
+}
+
+.container {
+  width: 50%;
+}
+
+#tweet-btn {
+  width: 150px;
+  border-radius: 50px;
+}
+
+#tweet-img-btn {
+  color: #32ccff;
+  border: 0;
+}
+#tweet-img-btn i {
+  color: #32ccff!important;
+}
